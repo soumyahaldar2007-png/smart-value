@@ -1,0 +1,6 @@
+{
+  "name": "Abstract Studio",
+  "description": "An immersive, interactive landing page featuring a responsive 3D floating carousel, a dynamic Razorpay-integrated store, live database-backed products, and an elegant administrative panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
